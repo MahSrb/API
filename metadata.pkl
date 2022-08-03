@@ -1,0 +1,12 @@
+{
+    "label_legend_inverted": {
+        "injection": 1,
+        "notinjection": 0
+    },
+    "legend": {
+        "1": "injection",
+        "0": "notinjection"
+    },
+    "max_sequence": 300,
+    "max_words": 500
+}
