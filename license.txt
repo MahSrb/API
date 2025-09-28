@@ -13,7 +13,7 @@ You are free to:
 
 Under the following terms:
 1. Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. Please cite the project and the original paper:
-   Mahboobe Sarayinejad, Zahra Eskandari. (2024). SQL Injection Detection Using Machine Learning Methods. 7th International Conference on Internet of Things and Applications. National ID: IOTCONF07_012. https://civilica.com/doc/1878981/
+   Mahboobe Sarabinejad, Zahra Eskandari. (2024). SQL Injection Detection Using Machine Learning Methods. 7th International Conference on Internet of Things and Applications. National ID: IOTCONF07_012. https://civilica.com/doc/1878981/
 
 2. NonCommercial — You may not use the material for commercial purposes.
 
