@@ -2,7 +2,7 @@
 
 **This project is based on the following paper:**  
 **Title:** SQL Injection Detection Using Machine Learning Methods  
-**Authors:** Mahboobe Sarayinejad, Zahra Eskandari  
+**Authors:** Mahboobe Sarabinejad, Zahra Eskandari  
 **Conference:** 7th International Conference on Internet of Things and Applications  
 **National Scientific Document ID:** IOTCONF07_012  
 **Indexing Date:** January 7, 2024 (18 Dey 1402)  
